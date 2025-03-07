@@ -42,7 +42,6 @@ cmake-build-debug/
 .DS_Store
 
 # Save files or temporary files
-saves/
 now/
 
 # Ignore compiled files and generated outputs
